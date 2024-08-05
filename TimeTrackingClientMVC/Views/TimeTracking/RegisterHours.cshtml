@@ -1,0 +1,27 @@
+﻿@model TimeTrackingClientMVC.Models.TimeRegistrationDTO
+
+@{
+    ViewBag.Title = "Registrér dine timer";
+}
+
+<h1>Registrér dine timer</h1>
+<h2>Vælg en dato og indtast dine timer</h2>
+
+<form method="post" action="@Url.Action("RegisterHours", "TimeTracking")">
+    <div>
+        <label for="date">Dato</label>
+        <input type="date" id="date" name="Date" value="@Model.Date.ToString("yyyy-MM-dd")" required />
+    </div>
+
+    <div>
+        <label for="hoursWorked">Antal Timer</label>
+        <input type="number" id="hoursWorked" name="HoursWorked" min="0" max="24" value="@Model.HoursWorked" required />
+    </div>
+
+    <button type="submit">Registrér</button>
+</form>
+
+@if (ViewBag.Message != null)
+{
+    <p>@ViewBag.Message</p>
+}

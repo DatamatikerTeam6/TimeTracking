@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3S4lFpFjyYC11OsCUpmSf82/VLVyHFWHfxbIj9U9HOk=",
+  "Source": "TimeTrackingServerAPI",
+  "BasePath": "_content/TimeTrackingServerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

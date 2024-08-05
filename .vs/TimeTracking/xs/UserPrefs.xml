@@ -1,0 +1,70 @@
+﻿<Properties StartupConfiguration="{08B79851-7704-4583-9382-F93600736A5F}|https">
+  <MonoDevelop.Ide.ItemProperties.TimeTrackingClientMVC PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TimeTrackingServerAPI/Program.cs">
+    <Files>
+      <File FileName="TimeTrackingClientMVC/Data/ApplicationDbContext.cs" Line="6" Column="45" />
+      <File FileName="TimeTrackingClientMVC/Controllers/HomeController.cs" />
+      <File FileName="TimeTrackingClientMVC/Views/Home/Index.cshtml" />
+      <File FileName="TimeTrackingClientMVC/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="TimeTrackingServerAPI/Data/ApplicationDbContext.cs" Line="1" Column="14" />
+      <File FileName="TimeTrackingServerAPI/Program.cs" Line="33" Column="11" />
+      <File FileName="TimeTrackingClientMVC/Models/TimeRegistrationDTO.cs" />
+      <File FileName="TimeTrackingServerAPI/Models/TimeRegistrationDTO.cs" />
+      <File FileName="TimeTrackingServerAPI/Models/TimeRegistration.cs" />
+      <File FileName="TimeTrackingServerAPI/Properties/launchSettings.json" />
+      <File FileName="TimeTrackingServerAPI/appsettings.json" Line="1" Column="1" />
+      <File FileName="TimeTrackingServerAPI/Controllers/TimeRegistrationController.cs" />
+      <File FileName="TimeTrackingServerAPI/Controllers/WeatherForecastController.cs" />
+      <File FileName="TimeTrackingClientMVC/Controllers/TimeTrackingController.cs" />
+      <File FileName="TimeTrackingClientMVC/Services/RegisterTimeService.cs" />
+      <File FileName="TimeTrackingClientMVC/Program.cs" />
+      <File FileName="TimeTrackingClientMVC/Services/IRegisterTimeService.cs" />
+      <File FileName="TimeTrackingServerAPI/Controllers/AccountsController.cs" Line="40" Column="8" />
+      <File FileName="TimeTrackingServerAPI/Models/ApplicationUser.cs" Line="6" Column="2" />
+      <File FileName="TimeTrackingServerAPI/Models/LoginDTO.cs" Line="1" Column="1" />
+      <File FileName="TimeTrackingServerAPI/Models/RegisterDTO.cs" Line="1" Column="1" />
+      <File FileName="TimeTrackingClientMVC/Areas/Identity/Pages/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="TimeTrackingClientMVC/Views/Shared/_LoginPartial.cshtml" Line="2" Column="31" />
+      <File FileName="TimeTrackingClientMVC/Views/Shared/_ValidationScriptsPartial.cshtml" Line="4" Column="1" />
+      <File FileName="TimeTrackingServerAPI/TimeTrackingServerAPI.http" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TimeTracking" expanded="True">
+            <Node name="TimeTrackingClientMVC" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="TimeTracking" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="TimeTrackingServerAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
