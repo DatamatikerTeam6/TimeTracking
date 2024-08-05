@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "DogRallyAPI.Controllers.TracksController",
+    "Method": "CreateTrack",
+    "RelativePath": "Tracks/CreateTrack",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "viewModel",
+        "Type": "DogRallyAPI.Models.TrackExerciseViewModelDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DogRallyAPI.Controllers.TracksController",
+    "Method": "ReadExercises",
+    "RelativePath": "Tracks/ReadExercises",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DogRallyAPI.Controllers.TracksController",
+    "Method": "ReadTrack",
+    "RelativePath": "Tracks/ReadTrack",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trackID",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

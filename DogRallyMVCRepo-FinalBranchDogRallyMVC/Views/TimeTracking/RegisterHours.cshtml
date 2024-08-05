@@ -1,0 +1,84 @@
+﻿@using System.Security.Claims
+@model DogRallyMVC.Models.TimetrackingDTO
+
+@{
+    ViewData["Title"] = "RegisterHours";
+}
+<br />
+<h1>Opret bane</h1>
+<br />
+<style>
+
+    body {
+        margin: 0;
+        padding: 0;
+       /*  background-image: url('/images/Background.webp'); */
+        background-size: cover; /* Adjusted for non-stretched image */
+        background-position: center; /* Center the background image */
+        background-repeat: no-repeat;
+        font-family: Candara, sans-serif;
+    }
+
+    .content {
+        text-align: center;
+        padding: 100px;
+        color: white;
+    }
+
+    h1 {
+        font-size: 60px;
+        text-shadow: 4px 4px 1px rgba(0,0,0,1);
+        color: #fff;
+    }
+
+    #canvas-container {
+        position: relative;
+    }
+
+</style>
+
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="RegisterHours">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <!-- Input fields for User -->
+            <div class="form-group">
+                 asp-for="@Model.UserID" />
+                <span asp-validation-for="@Model.UserID" class="text-danger"></span>
+            </div>
+
+
+            <!-- Input fields for Timetracking -->
+            <div class="form-group">
+                <label asp-for="@Model.Date" class="control-label">Vælg Dato</label>
+                <input asp-for="@Model.Date" class="form-control" />
+                <span asp-validation-for="@Model.Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.HoursWorked" class="control-label">Indtast Timer</label>
+                <input asp-for="@Model.HoursWorked" class="form-control" />
+                <span asp-validation-for="@Model.HoursWorked" class="text-danger"></span>
+            </div>
+           @*  <div class="form-group">
+                <input type="hidden" asp-for="@Model.Track.TrackID" />
+                <span asp-validation-for="@Model.Track.TrackID" class="text-danger"></span>
+            </div> *@
+                    
+
+            <div class="form-group">
+                <input type="submit" value="Opret bane" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<br /> 
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
