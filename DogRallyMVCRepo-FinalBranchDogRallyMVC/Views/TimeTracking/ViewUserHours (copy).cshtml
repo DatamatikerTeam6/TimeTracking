@@ -1,0 +1,27 @@
+﻿@model IEnumerable<DogRallyMVC.Models.TimetrackingDTO>
+
+@{
+    ViewData["Title"] = "View Hours";
+}
+
+<h1>Registered Hours</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>User ID</th>
+            <th>Date</th>
+            <th>Hours Worked</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.UserID</td>
+                <td>@item.Date.ToString("dd-MM-yyyy")</td>
+                <td>@item.HoursWorked</td>
+            </tr>
+        }
+    </tbody>
+</table>

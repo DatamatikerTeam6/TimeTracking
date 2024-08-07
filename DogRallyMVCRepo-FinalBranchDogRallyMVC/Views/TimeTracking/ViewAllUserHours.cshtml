@@ -1,0 +1,114 @@
+﻿@model IEnumerable<DogRallyMVC.Models.TimetrackingDTO>
+
+@{
+    ViewData["Title"] = "View All User Hours";
+}
+
+
+<br />
+
+<h1>Se alle medarbejdertimer</h1>
+
+<br />
+<br />
+
+<!-- Form for daily filter -->
+<h2>Filtrér efter dato</h2>
+<input type="date" id="filterDate" class="form-control" />
+
+<!-- Form for weekly filter -->
+<h2>Filtrér efter uge</h2>
+<input type="number" id="filterYear" placeholder="Årstål" class="form-control" />
+<input type="number" id="filterWeek" placeholder="Ugenr" class="form-control" />
+
+<!-- Form for user email filter -->
+<h2>Filter efter email</h2>
+<input type="text" id="filterEmail" placeholder="Email" class="form-control" />
+
+<!-- Filter and reset buttons -->
+<button id="filterButton" class="btn btn-primary mt-2">Filtrér</button>
+<button id="resetButton" class="btn btn-secondary mt-2">Nulstil filtre</button>
+
+<!-- Display filtered results -->
+<table class="table mt-3">
+    <thead>
+        <tr>
+            <th>Email</th>
+            <th>Dato</th>
+            <th>Timetal</th>
+        </tr>
+    </thead>
+    <tbody id="hoursTableBody">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.UserEmail</td>
+                <td>@item.Date.ToString("yyyy-MM-dd")</td>
+                <td>@item.HoursWorked</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>document.getElementById('filterButton').addEventListener('click', function () {
+            // Get input values
+            const dateInput = document.getElementById('filterDate').value;
+            const yearInput = document.getElementById('filterYear').value;
+            const weekInput = document.getElementById('filterWeek').value;
+            const emailInput = document.getElementById('filterEmail').value.toLowerCase();
+
+            // Get all rows from the table
+            const rows = document.querySelectorAll('#hoursTableBody tr');
+
+            rows.forEach(row => {
+                const dateCell = row.cells[1].textContent;
+                const date = new Date(dateCell);
+
+                // Get ISO date format for comparison
+                const isoDate = date.toISOString().split('T')[0];
+
+                // Get email for comparison
+                const emailCell = row.cells[0].textContent.toLowerCase();
+
+                // Filter based on the date input
+                let shouldShow = true;
+
+                if (dateInput && isoDate !== dateInput) {
+                    shouldShow = false;
+                }
+
+                // Filter based on week number and year input
+                if (yearInput && weekInput) {
+                    const startOfWeek = new Date(yearInput, 0, 1 + (weekInput - 1) * 7);
+                    const endOfWeek = new Date(startOfWeek);
+                    endOfWeek.setDate(startOfWeek.getDate() + 6);
+
+                    if (date < startOfWeek || date > endOfWeek) {
+                        shouldShow = false;
+                    }
+                }
+
+                // Filter based on email input
+                if (emailInput && !emailCell.includes(emailInput)) {
+                    shouldShow = false;
+                }
+
+                row.style.display = shouldShow ? '' : 'none';
+            });
+        });
+
+        document.getElementById('resetButton').addEventListener('click', function () {
+            // Clear input fields
+            document.getElementById('filterDate').value = '';
+            document.getElementById('filterYear').value = '';
+            document.getElementById('filterWeek').value = '';
+            document.getElementById('filterEmail').value = '';
+
+            // Show all rows
+            const rows = document.querySelectorAll('#hoursTableBody tr');
+            rows.forEach(row => {
+                row.style.display = '';
+            });
+        });</script>
+}
