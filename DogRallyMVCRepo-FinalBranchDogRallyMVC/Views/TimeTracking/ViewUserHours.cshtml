@@ -1,0 +1,82 @@
+﻿@model IEnumerable<DogRallyMVC.Models.TimetrackingDTO>
+
+@{
+    ViewData["Title"] = "View Hours";
+}
+
+<br />
+
+<h1>Se timer</h1>
+
+<div class="container mt-5">
+    <h2>Filtrér efter dato</h2>
+    <input type="date" id="filterDate" class="form-control" />
+
+    <h2>Filtrér efter uge</h2>
+    <input type="number" id="filterYear" placeholder="Årstal" class="form-control" />
+    <input type="number" id="filterWeek" placeholder="Ugenr" class="form-control" />
+
+    <button id="filterButton" class="btn btn-primary mt-2">Filtrér</button>
+    <button id="resetButton" class="btn btn-secondary mt-2">Nulstil filtre</button>
+
+    <table class="table mt-3">
+        <thead>
+            <tr>
+                <th>Dato</th>
+                <th>Timetal</th>
+            </tr>
+        </thead>
+        <tbody id="hoursTableBody">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Date.ToString("yyyy-MM-dd")</td>
+                    <td>@item.HoursWorked</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script>document.getElementById('filterButton').addEventListener('click', function () {
+            const dateInput = document.getElementById('filterDate').value;
+            const yearInput = document.getElementById('filterYear').value;
+            const weekInput = document.getElementById('filterWeek').value;
+            const rows = document.querySelectorAll('#hoursTableBody tr');
+
+            rows.forEach(row => {
+                const dateCell = row.cells[0].textContent;
+                const date = new Date(dateCell);
+                const isoDate = date.toISOString().split('T')[0];
+                let shouldShow = true;
+
+                if (dateInput && isoDate !== dateInput) {
+                    shouldShow = false;
+                }
+
+                if (yearInput && weekInput) {
+                    const startOfWeek = new Date(yearInput, 0, 1 + (weekInput - 1) * 7);
+                    const endOfWeek = new Date(startOfWeek);
+                    endOfWeek.setDate(startOfWeek.getDate() + 6);
+
+                    if (date < startOfWeek || date > endOfWeek) {
+                        shouldShow = false;
+                    }
+                }
+
+                row.style.display = shouldShow ? '' : 'none';
+            });
+        });
+
+        document.getElementById('resetButton').addEventListener('click', function () {
+            document.getElementById('filterDate').value = '';
+            document.getElementById('filterYear').value = '';
+            document.getElementById('filterWeek').value = '';
+
+            const rows = document.querySelectorAll('#hoursTableBody tr');
+            rows.forEach(row => {
+                row.style.display = '';
+            });
+        });</script>
+}

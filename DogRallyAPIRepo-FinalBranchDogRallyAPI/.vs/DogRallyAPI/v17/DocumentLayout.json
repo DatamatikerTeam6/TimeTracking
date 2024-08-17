@@ -1,0 +1,1243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD80A0D-1458-495E-BFC4-A662460662B7}|..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\DogRallyMVC.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllymvcrepo-finalbranchdograllymvc\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD80A0D-1458-495E-BFC4-A662460662B7}|..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\DogRallyMVC.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllymvcrepo-finalbranchdograllymvc\\services\\registerhours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD80A0D-1458-495E-BFC4-A662460662B7}|..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\DogRallyMVC.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllymvcrepo-finalbranchdograllymvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD80A0D-1458-495E-BFC4-A662460662B7}|..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\DogRallyMVC.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllymvcrepo-finalbranchdograllymvc\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD80A0D-1458-495E-BFC4-A662460662B7}|..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\DogRallyMVC.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllymvcrepo-finalbranchdograllymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD80A0D-1458-495E-BFC4-A662460662B7}|..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\DogRallyMVC.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllymvcrepo-finalbranchdograllymvc\\services\\iregisterhours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllyapirepo-finalbranchdograllyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD80A0D-1458-495E-BFC4-A662460662B7}|..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\DogRallyMVC.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllymvcrepo-finalbranchdograllymvc\\services\\deletetrackfromapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllyapirepo-finalbranchdograllyapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllyapirepo-finalbranchdograllyapi\\dograllyapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|solutionrelative:dograllyapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllyapirepo-finalbranchdograllyapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllyapirepo-finalbranchdograllyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\DeleteTrackFromAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllyapirepo-finalbranchdograllyapi\\models\\timetrackingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|solutionrelative:models\\timetrackingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllyapirepo-finalbranchdograllyapi\\models\\timetracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|solutionrelative:models\\timetracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllyapirepo-finalbranchdograllyapi\\controllers\\timetrackingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|solutionrelative:controllers\\timetrackingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Desktop\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123309_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllyapirepo-finalbranchdograllyapi\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllyapirepo-finalbranchdograllyapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllyapirepo-finalbranchdograllyapi\\data\\timetrackingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|solutionrelative:data\\timetrackingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Desktop\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123132_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Desktop\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123030_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|c:\\users\\justin\\desktop\\timetracking\\timetracking\\dograllyapirepo-finalbranchdograllyapi\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F666FF99-D405-449E-AACB-4C43B1FB4F99}|DogRallyAPI.csproj|solutionrelative:models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DogRallyContext3/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DogRallyContext3/True/SqlView/dbo.TrackExerciseView.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\DeleteTrack.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\ReadTrack.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\CreateTrack.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Controllers\\TracksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\GetTrackFromAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\GetUserTracksFromAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\DeleteTrackFromAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\UpdateTrack.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IDeleteTrackFromAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IGetExercisesFromAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IGetTrackFromAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IGetUserTracksFromAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IPostTrackToAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\PostTrackToAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\GetExercisesFromAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Models\\TrackExerciseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Models\\TrackExerciseViewModelDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Views\\Shared\\_LoginPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Views\\Users\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Data\\DogRallyMVCContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Data\\DogRallyMVCUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Models\\UserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\PostTrackToAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Models\\RegisterDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Controllers\\TracksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\GetTrackFromAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IGetUserTracksFromAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IGetTrackFromAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IRegisterHours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\RegisterHours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Controllers\\TimetrackingController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Views\\TimeTracking\\RegisterHours.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Models\\UserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Models\\TimetrackingDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Desktop\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123350_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteTrackFromAPI.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\DeleteTrackFromAPI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\DeleteTrackFromAPI.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\DeleteTrackFromAPI.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\DeleteTrackFromAPI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:37:58.728Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Controllers\\HomeController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:38:06.16Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T10:34:23.362Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRegisterHours.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IRegisterHours.cs",
+              "RelativeDocumentMoniker": "..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IRegisterHours.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IRegisterHours.cs",
+              "RelativeToolTip": "..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IRegisterHours.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:30:57.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterHours.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\RegisterHours.cs",
+              "RelativeDocumentMoniker": "..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\RegisterHours.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\RegisterHours.cs",
+              "RelativeToolTip": "..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\RegisterHours.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:30:08.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\UserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:29:18.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T10:28:14.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Program.cs",
+              "RelativeToolTip": "..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:37:28.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteTrackFromAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\DeleteTrackFromAPI.cs",
+              "RelativeDocumentMoniker": "..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\DeleteTrackFromAPI.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\DeleteTrackFromAPI.cs",
+              "RelativeToolTip": "..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\DeleteTrackFromAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:26:55.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\appsettings.json",
+              "RelativeToolTip": "..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T10:37:32.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JWTTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\JWTTokenService.cs",
+              "RelativeDocumentMoniker": "..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\JWTTokenService.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\JWTTokenService.cs",
+              "RelativeToolTip": "..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\JWTTokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:34:32.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:49:27.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DogRallyAPI.http",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\DogRallyAPI.http",
+              "RelativeDocumentMoniker": "DogRallyAPI.http",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\DogRallyAPI.http",
+              "RelativeToolTip": "DogRallyAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-14T10:28:12.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:06:44.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T11:07:17.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IGetTrackFromAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IGetTrackFromAPI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IGetTrackFromAPI.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IGetTrackFromAPI.cs",
+              "RelativeToolTip": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IGetTrackFromAPI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:51:51.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:54:15.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IGetUserTracksFromAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IGetUserTracksFromAPI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IGetUserTracksFromAPI.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IGetUserTracksFromAPI.cs",
+              "RelativeToolTip": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IGetUserTracksFromAPI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:52:45.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "GetTrackFromAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\GetTrackFromAPI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\GetTrackFromAPI.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\GetTrackFromAPI.cs",
+              "RelativeToolTip": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\GetTrackFromAPI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:52:16.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Views\\Shared\\_Layout.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T12:56:10.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IRegisterHours.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IRegisterHours.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IRegisterHours.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IRegisterHours.cs",
+              "RelativeToolTip": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\IRegisterHours.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:50:08.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "RegisterHours.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\RegisterHours.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\RegisterHours.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\RegisterHours.cs",
+              "RelativeToolTip": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Services\\RegisterHours.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:49:36.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "TimetrackingController.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Controllers\\TimetrackingController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Controllers\\TimetrackingController.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Controllers\\TimetrackingController.cs",
+              "RelativeToolTip": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Controllers\\TimetrackingController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:45:55.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "RegisterHours.cshtml",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Views\\TimeTracking\\RegisterHours.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Views\\TimeTracking\\RegisterHours.cshtml",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Views\\TimeTracking\\RegisterHours.cshtml",
+              "RelativeToolTip": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Views\\TimeTracking\\RegisterHours.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T12:40:46.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Models\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Models\\UserDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Models\\UserDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:40:18.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "TimetrackingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Models\\TimetrackingDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Models\\TimetrackingDTO.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Models\\TimetrackingDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\Models\\TimetrackingDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:39:56.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TimeTrackingController.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Controllers\\TimeTrackingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TimeTrackingController.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Controllers\\TimeTrackingController.cs",
+              "RelativeToolTip": "Controllers\\TimeTrackingController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAvwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:06:46.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\DogRallyMVCRepo-FinalBranchDogRallyMVC\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T12:32:27.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240805123132_test.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123132_test.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123132_test.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123132_test.cs",
+              "RelativeToolTip": "..\\..\\..\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123132_test.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:31:32.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240805123030_test.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123030_test.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123030_test.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123030_test.cs",
+              "RelativeToolTip": "..\\..\\..\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123030_test.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:30:30.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TimeTrackingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Data\\TimeTrackingDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\TimeTrackingDbContext.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Data\\TimeTrackingDbContext.cs",
+              "RelativeToolTip": "Data\\TimeTrackingDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:21:05.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:33:24.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:08:22.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Timetracking.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Models\\Timetracking.cs",
+              "RelativeDocumentMoniker": "Models\\Timetracking.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Models\\Timetracking.cs",
+              "RelativeToolTip": "Models\\Timetracking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:17:45.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TimetrackingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Models\\TimetrackingDTO.cs",
+              "RelativeDocumentMoniker": "Models\\TimetrackingDTO.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Models\\TimetrackingDTO.cs",
+              "RelativeToolTip": "Models\\TimetrackingDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:15:11.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240805123309_test.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123309_test.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123309_test.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123309_test.cs",
+              "RelativeToolTip": "..\\..\\..\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123309_test.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:33:09.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20240805123350_test.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123350_test.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123350_test.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123350_test.cs",
+              "RelativeToolTip": "..\\..\\..\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Migrations\\20240805123350_test.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:33:50.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T09:27:32.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-05-13T10:26:35.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Views\\Shared\\_LoginPartial.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T11:11:07.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DogRallyContext3/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-14T09:26:34.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\appsettings.json",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T09:24:17.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Models\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\TimeTracking\\TimeTracking\\DogRallyAPIRepo-FinalBranchDogRallyAPI\\Models\\RegisterDTO.cs",
+              "RelativeToolTip": "Models\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:34:27.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Controllers\\UsersController.cs",
+              "ToolTip": "UsersController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "External Remote Files",
+              "OverriddenToolTip": "UsersController.cs",
+              "WhenOpened": "2024-05-14T09:16:03.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\UserService.cs",
+              "ToolTip": "UserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "External Remote Files",
+              "OverriddenToolTip": "UserService.cs",
+              "WhenOpened": "2024-05-13T10:41:54.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Program.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:24:18.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Views\\Users\\Register.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Views\\Users\\Register.cshtml",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Views\\Users\\Register.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Views\\Users\\Register.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T10:37:27.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DogRallyMVCContext.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Data\\DogRallyMVCContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Data\\DogRallyMVCContext.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Data\\DogRallyMVCContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Data\\DogRallyMVCContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:29:58.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DogRallyMVCUser.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Data\\DogRallyMVCUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Data\\DogRallyMVCUser.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Data\\DogRallyMVCUser.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Data\\DogRallyMVCUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:29:56.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Models\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Models\\UserDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Models\\UserDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:43:09.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "PostTrackToAPI.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\PostTrackToAPI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\PostTrackToAPI.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\PostTrackToAPI.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\PostTrackToAPI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-05-14T09:06:30.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Models\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Models\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Models\\RegisterDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Models\\RegisterDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-05-13T10:50:06.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "TracksController.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Controllers\\TracksController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Controllers\\TracksController.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Controllers\\TracksController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Controllers\\TracksController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:27:02.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\IUserService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Services\\IUserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-05-13T11:01:12.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Email.cshtml",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T10:33:52.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\DogRallyMVC-CRUDFunctionalityFullyImplemented\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T09:23:06.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeleteTrack.cshtml",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\DeleteTrack.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\DeleteTrack.cshtml",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\DeleteTrack.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\DeleteTrack.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T07:13:18.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\wwwroot\\css\\site.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-08T11:00:44.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReadTrack.cshtml",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\ReadTrack.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\ReadTrack.cshtml",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\ReadTrack.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\ReadTrack.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-05-08T07:53:46.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Shared\\_Layout.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T07:54:22.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateTrack.cshtml",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\CreateTrack.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\CreateTrack.cshtml",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\CreateTrack.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\CreateTrack.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-05-09T07:39:33.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T07:44:59.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Home\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T08:39:31.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Controllers\\HomeController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:04:29.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TracksController.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Controllers\\TracksController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Controllers\\TracksController.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Controllers\\TracksController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Controllers\\TracksController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-05-08T08:00:17.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetTrackFromAPI.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\GetTrackFromAPI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\GetTrackFromAPI.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\GetTrackFromAPI.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\GetTrackFromAPI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-05-08T08:13:46.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetUserTracksFromAPI.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\GetUserTracksFromAPI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\GetUserTracksFromAPI.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\GetUserTracksFromAPI.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\GetUserTracksFromAPI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-05-08T10:55:40.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DeleteTrackFromAPI.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\DeleteTrackFromAPI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\DeleteTrackFromAPI.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\DeleteTrackFromAPI.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\DeleteTrackFromAPI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:48:30.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Home\\Privacy.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T10:59:50.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Program.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-05-08T07:52:05.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateTrack.cshtml",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\UpdateTrack.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\UpdateTrack.cshtml",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\UpdateTrack.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Tracks\\UpdateTrack.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-05-08T07:54:15.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Views\\Shared\\Error.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T11:10:40.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IDeleteTrackFromAPI.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IDeleteTrackFromAPI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IDeleteTrackFromAPI.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IDeleteTrackFromAPI.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IDeleteTrackFromAPI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:58:19.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IGetExercisesFromAPI.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IGetExercisesFromAPI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IGetExercisesFromAPI.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IGetExercisesFromAPI.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IGetExercisesFromAPI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-05-08T08:21:43.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IGetTrackFromAPI.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IGetTrackFromAPI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IGetTrackFromAPI.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IGetTrackFromAPI.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IGetTrackFromAPI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-05-08T08:21:45.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IGetUserTracksFromAPI.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IGetUserTracksFromAPI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IGetUserTracksFromAPI.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IGetUserTracksFromAPI.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IGetUserTracksFromAPI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-05-08T11:15:47.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IPostTrackToAPI.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IPostTrackToAPI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IPostTrackToAPI.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IPostTrackToAPI.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\IPostTrackToAPI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:21:46.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PostTrackToAPI.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\PostTrackToAPI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\PostTrackToAPI.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\PostTrackToAPI.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\PostTrackToAPI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:21:48.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GetExercisesFromAPI.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\GetExercisesFromAPI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\GetExercisesFromAPI.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\GetExercisesFromAPI.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Services\\GetExercisesFromAPI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:21:36.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TrackExerciseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Models\\TrackExerciseDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Models\\TrackExerciseDTO.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Models\\TrackExerciseDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Models\\TrackExerciseDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-05-08T08:03:09.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TrackExerciseViewModelDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Models\\TrackExerciseViewModelDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Models\\TrackExerciseViewModelDTO.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Models\\TrackExerciseViewModelDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Models\\TrackExerciseViewModelDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "External Remote Files",
+              "WhenOpened": "2024-05-08T08:05:38.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "dbo.TrackExerciseView [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DogRallyContext3/True/SqlView/dbo.TrackExerciseView.sql",
+              "ToolTip": "dbo.TrackExerciseView [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-08T08:50:48.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\PITA\\Downloads\\DogRallyMVC-newerBranch\\DogRallyMVC-newerBranch\\Models\\ErrorViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:04:34.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
